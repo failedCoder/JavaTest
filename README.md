@@ -10,4 +10,4 @@
 <li>Weekends and holidays don't count as work days.</li>
 </ul>
 <hr>
-<img src="https://image.ibb.co/iMPvMJ/java.png" alt="java" border="0">
+
